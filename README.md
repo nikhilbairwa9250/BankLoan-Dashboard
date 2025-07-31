@@ -45,4 +45,6 @@ This Power BI dashboard provides a deep dive into key banking metrics, allowing 
 3. Use slicers to filter by branches, gender, or loan status.
 4. Explore trends, compare metrics, and make decisions.
 
+## It is 90% done (Only Summary Left). THANKYOU!!!!
+
 ⭐ *If this project helped you or inspired your own dashboard, feel free to give it a ⭐ on GitHub!*
